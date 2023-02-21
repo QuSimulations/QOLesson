@@ -1,4 +1,14 @@
 
+Lessons
+
+1. [Кубит в квантовых вычислениях](https://github.com/sci4ever/QSLesson/blob/main/Theory/QBit%20in%20QComputing.ipynb)
+2. [Исидора Исаака Раби](https://github.com/sci4ever/QSLesson/blob/main/Theory/Rabi%20frequency.ipynb) (Rabi frequency)
+3. Bloch equation (In Progress)
+4. Quantum Entanglement (In Progress)
+5. Interference (In progress)
+6. Интерферометрия Рамсея
+7. Теоретические основы поиска по алгоритму Гровера
+
 
 
 
