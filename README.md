@@ -6,8 +6,8 @@ Lessons
 3. Bloch equation (In Progress)
 4. Quantum Entanglement (In Progress)
 5. Interference (In progress)
-6. Интерферометрия Рамсея
-7. Теоретические основы поиска по алгоритму Гровера
+6. Интерферометрия Рамсея (In progress)
+7. Теоретические основы поиска по алгоритму Гровера (In progress)
 
 
 
