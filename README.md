@@ -10,14 +10,6 @@ Lessons
 7. Теоретические основы поиска по алгоритму Гровера (In progress)
 
 
-
-
-
-
-
-
-
-
 ## Bibliography
 
 1. Nielsen, Michael A.; Chuang, Isaac L. . Quantum Computation and Quantum Information (10th Anniversary ed.). Cambridge, UK: Cambridge University Press. ISBN 978-0-521-63235-5. OCLC 43641333, 2020
