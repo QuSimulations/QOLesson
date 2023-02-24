@@ -16,3 +16,4 @@ Lessons
 2. Бернхард К., Квантовые вычисления для настоящих айтишников,стр 240, ISBN:978-5-4461-1332-3, (2020)
 3. 
  https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9B__Waves_Sound_Optics_Thermodynamics_and_Fluids
+ 4. https://steck.us/alkalidata/
