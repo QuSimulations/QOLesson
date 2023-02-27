@@ -1,5 +1,5 @@
 
-Lessons
+Lessons (non final)
 
 1. [Кубит в квантовых вычислениях](https://github.com/sci4ever/QSLesson/blob/main/Theory/QBit%20in%20QComputing.ipynb)
 2. [Исидора Исаака Раби](https://github.com/sci4ever/QSLesson/blob/main/Theory/Rabi%20frequency.ipynb) (Rabi frequency)
