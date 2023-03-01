@@ -1,8 +1,8 @@
 
 # Lessons (non final)
 
-*. [Кубит в квантовых вычислениях](https://github.com/sci4ever/QSLesson/blob/main/Theory/QBit%20in%20QComputing.ipynb)
-*. [Исидора Исаака Раби](https://github.com/sci4ever/QSLesson/blob/main/Theory/Rabi%20frequency.ipynb) (Rabi frequency)
+* [Кубит в квантовых вычислениях](https://github.com/sci4ever/QSLesson/blob/main/Theory/QBit%20in%20QComputing.ipynb)
+* [Исидора Исаака Раби](https://github.com/sci4ever/QSLesson/blob/main/Theory/Rabi%20frequency.ipynb) (Rabi frequency)
 *. Bloch equation (In Progress)
 *. Quantum Entanglement (In Progress)
 *. [Interference](https://github.com/sci4ever/QSLesson/blob/main/Theory/Interference.ipynb) 
