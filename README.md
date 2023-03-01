@@ -8,6 +8,10 @@
 * [Interference](https://github.com/sci4ever/QSLesson/blob/main/Theory/Interference.ipynb) 
 * Интерферометрия Рамсея (In progress)
 * Теоретические основы поиска по алгоритму Гровера (In progress)
+* STIRAP (In progress)
+* Optical Pumping (In progress) [4]
+* Resonance Fluorescence in a Two-Level Atom (In progress) [4]
+
 
 ## Bibliography
 
@@ -15,7 +19,7 @@
 2. Бернхард К., Квантовые вычисления для настоящих айтишников,стр 240, ISBN:978-5-4461-1332-3, (2020)
 3. 
  https://phys.libretexts.org/Courses/University_of_California_Davis/UCD:_Physics_9B__Waves_Sound_Optics_Thermodynamics_and_Fluids
- 
+
 4. https://steck.us/alkalidata/
 
 
